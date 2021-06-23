@@ -9,3 +9,10 @@ Klik [hier](https://github.com/TiemenSoeteman/MigrateToGitHub/projects/1) voor h
 2. Markup language gebruiken vs Word?
 3. Visual studio code als markup language editor?
 4. Complexiteit vs voordelen studenten?
+
+## Benodigdheden voor gebruik
+1. Github account maken
+2. Eigen (prive) mailadres en school mail adres koppelen
+3. Paar Github cursussen doen (welke?)
+    a. (https://lab.github.com/githubtraining/introduction-to-github)
+    
