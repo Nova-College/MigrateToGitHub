@@ -14,5 +14,7 @@ Klik [hier](https://github.com/TiemenSoeteman/MigrateToGitHub/projects/1) voor h
 1. Github account maken
 2. Eigen (prive) mailadres en school mail adres koppelen
 3. Paar Github cursussen doen (welke?)
+
     a. (https://lab.github.com/githubtraining/introduction-to-github)
+    b. (https://lab.github.com/githubtraining/communicating-using-markdown)
     
